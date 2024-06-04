@@ -21,4 +21,4 @@ Then I performed feature scaling and split my test data into train, cross-valida
 I also had to one-hot encode my y data so that my neural network could analyze it using a sparse categorical cross entropy loss function. 
 After constructing a very basic neural network, I started implementing techniques to reduce overfitting such as Dropout layers, tweaking optimizers and learning rate, implementing l2 regularization, and callbacks to avoid wasting data.
 
-Eventually, I got my model to improve betting accuracy from even ~50%, to 58%. Even a small increase in accuracy gives me major advantages in the market. I plan to use my betting algorithm for the Euro 2024.
+Eventually, I got my model to improve betting accuracy from even ~50%, to 58%. Even a small increase in accuracy gives me major advantages in the market. I plan to use my betting algorithm for the Euro 2024, and so far have won hundreds of dollars through use of my data on Bet365.
